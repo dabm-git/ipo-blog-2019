@@ -4,11 +4,6 @@ Práctica Hotjar para IPO - USAL 2019
 [Live Website](https://xchgre.github.io/ipo-blog-2019/index.html)
 
 
-
-# [Start Bootstrap - Blog Home](https://startbootstrap.com/template-overviews/blog-home/)
-
-[Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-blog-home/master/LICENSE)
